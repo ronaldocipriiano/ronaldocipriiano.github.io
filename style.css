@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  background-color: rgba(134, 160, 226, 255);
+}
+
+#perfil {
+  width: 300px;
+  border-width: 100px;
+}
+
+ol {
+  line-height: 30px;
+}
+
+ul {
+  line-height: 30px;
+}
+
+redes socias nos icones :hover {
+  transform: scale(150%);
+}
